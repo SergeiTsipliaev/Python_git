@@ -1,0 +1,100 @@
+{
+    "contacts": [
+        {
+            "id": "1",
+            "name": "Miha",
+            "telephone": "8942235722",
+            "specialization": "economist"
+        },
+        {
+            "id": "2",
+            "name": "marfa",
+            "telephone": "893124569182",
+            "specialization": "post"
+        },
+        {
+            "id": "3",
+            "name": "Nikolay",
+            "telephone": "5678934923456",
+            "specialization": "Helper"
+        },
+        {
+            "id": "4",
+            "name": "Katya",
+            "telephone": "12345678",
+            "specialization": "Helper"
+        },
+        {
+            "id": "5",
+            "name": "Ibragim",
+            "telephone": "4827493",
+            "specialization": "Sanitar"
+        },
+        {
+            "id": "7",
+            "name": "Artem",
+            "telephone": "86527282829282",
+            "specialization": "Zam"
+        },
+        {
+            "id": "8",
+            "name": "Sara",
+            "telephone": "67890-1234",
+            "specialization": "Security"
+        },
+        {
+            "name": "Gor",
+            "telephone": "4567890-32",
+            "specialization": "God",
+            "id": "0"
+        },
+        {
+            "name": "Lara",
+            "telephone": "4567890",
+            "specialization": "Cuter",
+            "id": "9"
+        },
+        {
+            "name": "Rael",
+            "telephone": "5678903423",
+            "specialization": "Roumer",
+            "id": "10"
+        },
+        {
+            "name": "Raul",
+            "telephone": "856782934",
+            "specialization": "Dry",
+            "id": "11"
+        },
+        {
+            "name": "1",
+            "telephone": "1",
+            "specialization": "1",
+            "id": "12"
+        },
+        {
+            "name": "2",
+            "telephone": "2",
+            "specialization": "2",
+            "id": "13"
+        },
+        {
+            "name": "sdgf",
+            "telephone": "567890-",
+            "specialization": "Tip",
+            "id": "14"
+        },
+        {
+            "name": "Strong",
+            "telephone": "4567890",
+            "specialization": "Worker",
+            "id": 15
+        },
+        {
+            "name": "Ivan",
+            "telephone": "4567890",
+            "specialization": "Rab",
+            "id": 16
+        }
+    ]
+}
