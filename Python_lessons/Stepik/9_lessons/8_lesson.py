@@ -1,0 +1,5 @@
+print(ord('A'))
+print(ord('a'))
+print(ord('A') + ord('n'))
+print(ord('a') + ord('n'))
+print(ord('a') + ord('u') + ord('n') + ord('t'))
